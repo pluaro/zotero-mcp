@@ -150,3 +150,5 @@ testpaths = ["tests"]
 filterwarnings = [
     "ignore::DeprecationWarning",
 ]
+[tool.foro]
+entrypoint = "server.py"
